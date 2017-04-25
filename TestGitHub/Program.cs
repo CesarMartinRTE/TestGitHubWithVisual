@@ -28,6 +28,8 @@ namespace TestGitHub
 
             int l = 5;
 
+            int e = 54;
+
         }
     }
 }
