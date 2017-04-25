@@ -22,6 +22,12 @@ namespace TestGitHub
 
             int p = 3;
 
+            int m = 5;
+
+            int i = 8;
+
+            int l = 5;
+
         }
     }
 }
