@@ -34,6 +34,8 @@ namespace TestGitHub
 
             int correctif1VenantDuneAutreBranche = 3;
 
+            int correctif2VenantDuneAutreBranche = 6;
+
         }
     }
 }
