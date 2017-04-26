@@ -30,6 +30,12 @@ namespace TestGitHub
 
             int e = 54;
 
+            int correctif_branche_principale = 1;
+
+            int correctif1VenantDuneAutreBranche = 3;
+
+            int correctif2VenantDuneAutreBranche = 6;
+
         }
     }
 }
