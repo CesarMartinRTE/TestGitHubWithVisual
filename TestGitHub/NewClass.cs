@@ -10,5 +10,6 @@ namespace TestGitHub
     {
         int att1 = 2;
 
+        int att2 = 4;
     }
 }
